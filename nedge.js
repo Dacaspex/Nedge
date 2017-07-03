@@ -1,5 +1,12 @@
 /**
  * Nedge
+ * A simple JavaScript animation for enhancing empty spaces on websites.
+ *
+ * Nedge is designed to fill empty spaces on webpages to make it appear a bit
+ * more interesting. It features a network-graph style animation.
+ *
+ * @author Casper Smits
+ * @date 3 July 2017
  */
 
 // Constants
